@@ -29,7 +29,7 @@
             border-radius: 5px;
         }
         input[type="submit"] {
-            background-color: #ff69b4;
+            background-color:rgb(214, 93, 153);
             color: white;
             border: none;
             padding: 10px 20px;
